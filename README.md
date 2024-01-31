@@ -27,6 +27,4 @@ Front-End Developer
   <a href="https://www.linkedin.com/in/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
-### Support Me
-<a href="https://www.buymeacoffee.com"><img src="https://cdn.buymeacoffee.com" width="200" /></a>
 
