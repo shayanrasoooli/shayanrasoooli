@@ -6,7 +6,7 @@ Front-End Developer
 
 *   🤝  I'm open to collaborating on interesting projects as a web  developer
 
-<a href="https://www.github.com/badrnezhad" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/shayanrasoooli" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/shayanrasoooli?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
                   
