@@ -17,6 +17,7 @@ Front-End Developer
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
       <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="36" height="36" alt="React" /></a>
           <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+          <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRarwE6dr577yynU-l9ikjZYHSLxKd12ypjLnWdmJ2M598IKzOMvYfyljuo6vCc6FwmQR4&usqp=CAU" width="36" height="36" alt="nextJs" /></a>
 </p>
                     
 ### Socials
